@@ -42,11 +42,7 @@ class App extends React.Component {
                                 <a class="nav-link" href="#" onClick={this.setPageHome}>Home <span
                                     class="sr-only">(current)</span></a>
                             </li>
-                            /*
-                            Add more tabs and action items for the tabs to give the dealership website a real feel.
-                            */
-
-                            <li class="nav-item">
+                          <li class="nav-item">
                                 <a class="nav-link" href="#" onClick={this.setPageContactUs}>Contact Us</a>
                             </li>
                         </ul>
